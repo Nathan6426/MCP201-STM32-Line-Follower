@@ -49,6 +49,13 @@ The following photographs show the physical implementation of the STM32 line-fol
 
 ## 2. System Architecture
 
+### 2.1 Circuit Diagram
+
+The following diagram illustrates the electrical connections of the STM32 line-following robot.
+
+![STM32 Line Follower Circuit Diagram](1794224300982_4389226855427903812_4389226855427903812_1292c57cd401d00322f4e694686c0726.jpg)
+
+
 ### 2.1 Hardware Components
 
 | Component | Description |
