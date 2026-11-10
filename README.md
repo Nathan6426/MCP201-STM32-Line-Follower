@@ -25,6 +25,28 @@ The main objectives are:
 
 The repository contains firmware source files, project configuration, robot photographs, and technical documentation.
 
+
+### 1.1 Robot Prototype
+
+The following photographs show the physical implementation of the STM32 line-following robot.
+
+**Front View**
+
+![Robot Front View](images/front.jpg)
+
+**Top View**
+
+![Robot Top View](images/Top-Down.jpg)
+
+**Side View**
+
+![Robot Side View](images/Side.jpg)
+
+**Rear View**
+
+![Robot Rear View](images/Rear.jpg)
+
+
 ## 2. System Architecture
 
 ### 2.1 Hardware Components
